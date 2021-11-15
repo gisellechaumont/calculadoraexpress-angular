@@ -1,4 +1,8 @@
 # CalculadoraApp
+![image](https://user-images.githubusercontent.com/69175205/141796061-9ad14e01-5e75-48e6-be14-26d85d1c7404.png)
+
+Calculadora simple realizada con Angular para practicar event binding, property binding y two way binding.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
 
